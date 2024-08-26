@@ -25,3 +25,6 @@ A random forest model comprising 300 decision trees was used to determine featur
 factors were the score of the last evaluation, the number of projects and tenure. The overall model performed with 96% accuracy and 87% precision.
 
 ## Conclusion
+To retain employees, it is recommended to implement a cap on the number of projects to prevent burnout, consider promoting employees with four or more years of tenure, 
+and either reward longer working hours or avoid requiring them. Clear communication of overtime pay policies and workload expectations, along with fostering discussions 
+on work culture, can improve job satisfaction. Additionally, evaluation scores should be based on contribution and effort, not just hours worked.
