@@ -1,4 +1,4 @@
-# Employee-turnover-prediction-model-project-
+# Employee-Turnover-Prediction-with-Random-Forest-
 
 ## Overview
 The goal of this project is to build a machine learning model that predicts whether an employee will leave the company
