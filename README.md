@@ -13,13 +13,15 @@ with training new hires. By identifying the factors that influence employee depa
 address these issues.
 
 ## Data Understanding
-
 The data for this project came from Kaggle which comprised of 11 991 rows representing individual employees, and 10 columns, of which 9 are features. 
 These features included details such as satisfaction level, the number of projects an employee contributes to, the average number of hours worked per month, 
 and additional relevant information. Out of the 11 991 employees, approximately 83.4% stayed and 16.6% left. 
 
-Some features were engineered and dropped. 
+A feature was engineered to indicate whether an employee was overworked (working more than 175 hours per month). The columns for satisfaction levels and 
+average monthly hours were dropped, as they could be unrepresentative under certain circumstances, potentially negatively impacting the model's accuracy.
 
 ## Modeling and Evaluation
+A random forest model comprising 300 decision trees was used to determine feature importance in who would stay and leave the company. The top 3 most important
+factors were the score of the last evaluation, the number of projects and tenure. The overall model performed with 96% accuracy and 87% precision.
 
 ## Conclusion
