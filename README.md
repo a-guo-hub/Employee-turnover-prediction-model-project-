@@ -2,6 +2,12 @@
 
 ## Overview
 The goal of this project is to build a machine learning model that predicts whether an employee will leave the company
-based on their job title, department, number of projects, average monthly hours, and any other relevant data points. A
-good model will help the company increase retention and job satisfaction for current employees, and save money and time 
-training new employees.
+based on their job title, department, number of projects, average monthly hours, and any other relevant data points. This 
+project utilized Salifort Motors employee data. The final random forest model performed with 96% accuracy 
+and 87% precision. Based on the model, the last evaluation score, number of projects, tenure  and being overworked were the most influential
+in determining the departure of an employee.
+
+## Business Undertanding
+A well-designed model will enable the company to enhance employee retention and job satisfaction, while also reducing the costs and time associated
+with training new hires. By identifying the factors that influence employee departures, Salifort Motors can take proactive and corrective measures to 
+address these issues.
