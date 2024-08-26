@@ -16,4 +16,10 @@ address these issues.
 
 The data for this project comprised 11 991 rows representing individual employees, and 10 columns, of which 9 are features. These features included 
 details such as satisfaction level, the number of projects an employee contributes to, the average number of hours worked per month, and additional 
-relevant information. 
+relevant information. Out of the 11 991 employees, approximately 83.4% stayed and 16.6% left. 
+
+Some features were engineered and dropped. 
+
+## Modeling and Evaluation
+
+## Conclusion
