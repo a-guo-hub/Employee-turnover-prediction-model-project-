@@ -11,3 +11,9 @@ in determining the departure of an employee.
 A well-designed model will enable the company to enhance employee retention and job satisfaction, while also reducing the costs and time associated
 with training new hires. By identifying the factors that influence employee departures, Salifort Motors can take proactive and corrective measures to 
 address these issues.
+
+## Data Understanding
+
+The data for this project comprised 14 999 rows representing individual employees and 10 columns, of which 9 are features. These features included 
+details such as satisfaction level, the number of projects an employee contributes to, the average number of hours worked per month, and additional 
+relevant information. 
